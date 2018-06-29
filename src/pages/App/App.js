@@ -5,6 +5,12 @@ import {
 } from 'react-router-dom'
 import './App.css';
 
+import NavBar from '../../components/NavBar/NavBar';
+import SignupPage from '../SignupPage/SignupPage';
+import LoginPage from '../LoginPage/LoginPage';
+
+
+
 class App extends Component {
   constructor() {
     super();
