@@ -20,7 +20,11 @@ class App extends Component {
   }
   render() {
     return (
-      <div>Hello World</div>
+      <div>Hello World
+        <div> By: Jon Garman</div>
+        <div> This is an instagram app</div>
+        <div> with some minor adjustments</div>
+      </div>
     );
   }
 }
